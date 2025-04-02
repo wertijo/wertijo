@@ -1,9 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋, I'am Alejandro Reyes
+<h3 align="center">A passionate Software Developer from India</h3>
 <!--
-**wertijo/wertijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
