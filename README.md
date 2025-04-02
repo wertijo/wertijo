@@ -1,8 +1,8 @@
-## Hi there 👋, I'am Alejandro Reyes
+<h1>Hi there 👋, I'am Alejandro Reyes</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
-<h3>📫 How to reach me: alejoreyes124@gmail.com</h3>
-<h3>🌱 I’m currently learning: SpringBoot</h3>
+<p>📫 How to reach me: alejoreyes124@gmail.com</p>
+<p>🌱 I’m currently learning: SpringBoot</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
