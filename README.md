@@ -16,7 +16,6 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### Databases:
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -30,11 +29,12 @@
 ### Tools:
   ![langchain](https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
   ![blender](https://img.shields.io/badge/blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-  ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   ![intellijidea](https://img.shields.io/badge/intellijidea-3B00B9?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
   ![apachenetbeanside](https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)&nbsp;
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
+  ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
   ![7zip](https://img.shields.io/badge/7zip-000000?style=for-the-badge&logo=7zip&logoColor=white)&nbsp;
 
 
