@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Software Developer from Colombia</h2>
 
 📫 How to reach me: alejoreyes124@gmail.com\
-🌱 I’m currently learning: SpringBoot
+🌱 I’m currently learning: SpringBoot\
 🎇 Working on: https://github.com/DreamTeamOrganization/GestorTareas
 
 ### Connect with me:
