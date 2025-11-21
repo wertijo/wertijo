@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/jairo-alejandro-reyes-duarte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
 
 ### Languages:
-  ![R](https://img.shields.io/badge/r-%276DC3.svg?style=for-the-badge&logo=r&logoColor=276DC3)&nbsp;
+  ![R](https://img.shields.io/badge/r-3178C6.svg?style=for-the-badge&logo=r&logoColor=276DC3)&nbsp;
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
