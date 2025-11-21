@@ -29,7 +29,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### Tools:
-  ![PowerBI]
+  ![PowerBI](style=logoColor=white)&nbsp;
   ![langchain](https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
   ![blender](https://img.shields.io/badge/blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
